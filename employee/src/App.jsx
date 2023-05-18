@@ -2,8 +2,8 @@ import "./App.css";
 import { useState } from "react";
 
 import React from "react";
-import Employes from "./employes";
-import Header from "./header";
+import Employes from "./components/employes";
+import Header from "./components/header";
 
 
 function App() {
